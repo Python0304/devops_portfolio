@@ -51,7 +51,6 @@ MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',  
     'django.contrib.sessions.middleware.SessionMiddleware',
-    ...
 ]
 
 ROOT_URLCONF = 'my_portfolio.urls'
